@@ -1,4 +1,4 @@
-![Banner]([https://raw.githubusercontent.com/username/repository/main/assets/banner.png](https://drive.google.com/file/d/126MtvWEBsHCB04J-D09qGEFDfxlQ4BVp/view?usp=sharing))
+![Banner](https://drive.google.com/file/d/126MtvWEBsHCB04J-D09qGEFDfxlQ4BVp/view?usp=sharing)
 
 # 👋 Hi, I'm Aman Saifi  
 
