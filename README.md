@@ -1,16 +1,42 @@
-## Hi there 👋
+👋 Hi, I'm Aman Saifi
 
-<!--
-**saifiaman/saifiaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Full Stack Developer | Backend with Spring Boot & PHP | Frontend with React & WordPress | Problem-Solving Enthusiast in DSA | Exploring AI/ML in Software Development
 
-Here are some ideas to get you started:
+🔧 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages: Java, JavaScript, Python, PHP, SQL
+
+Backend: Spring Boot, Hibernate, REST APIs, PHP (Laravel basics)
+
+Frontend: HTML, CSS, JavaScript, React (learning phase)
+
+Database: MySQL, PostgreSQL
+
+CMS & Tools: WordPress Development, Git, GitHub, VS Code, IntelliJ IDEA
+
+Other Skills: Data Structures & Algorithms (LeetCode, HackerRank), OOPs, System Design basics
+
+📌 What I Do
+
+Develop scalable backend solutions with Spring Boot and PHP.
+
+Build dynamic frontend interfaces using React and WordPress.
+
+Solve DSA problems to strengthen problem-solving & coding efficiency.
+
+Experiment with AI/ML concepts and explore their applications in full stack and automation.
+
+📈 Current Focus
+
+Improving problem-solving skills on LeetCode & HackerRank.
+
+Advancing in React & modern frontend practices.
+
+Exploring how AI/ML can be integrated with Full Stack systems.
+
+📫 Connect with Me
+
+🌐 LinkedIn
+ | 💻 GitHub
+
+✨ "Code, Learn, and Build to Impact."
