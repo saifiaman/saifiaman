@@ -1,47 +1,39 @@
-Hi there 👋, I'm Aman Saifi
+# 👋 Hi, I'm Aman Saifi  
 
-🚀 Aspiring Full Stack Developer | Java & Spring Boot Enthusiast | WordPress Developer | AI/ML Explorer
+🚀 **Aspiring Full Stack Developer** | Backend with **Spring Boot & PHP** | Frontend with **React & WordPress** | Problem-Solving Enthusiast in **DSA** | Exploring **AI/ML** in Software Development  
 
-I’m a B.Tech student passionate about building scalable full-stack applications and continuously improving my problem-solving skills through DSA. I enjoy working on real-world projects and exploring how AI/ML can be integrated into web development and backend systems.
+---
 
-🔧 Tech Stack
+## 🔧 Tech Stack  
 
-Languages: Java, JavaScript, Python, SQL
+- **Languages:** Java, JavaScript, Python, PHP, SQL  
+- **Backend:** Spring Boot, Hibernate, REST APIs, PHP (Laravel basics)  
+- **Frontend:** HTML, CSS, JavaScript, React (learning phase)  
+- **Database:** MySQL, PostgreSQL  
+- **CMS & Tools:** WordPress Development, Git, GitHub, VS Code, IntelliJ IDEA  
+- **Other Skills:** Data Structures & Algorithms (LeetCode, HackerRank), OOPs, System Design basics  
 
-Backend: Spring Boot, Hibernate, REST APIs
+---
 
-Frontend: HTML, CSS, JavaScript, React (learning phase)
+## 📌 What I Do  
+- Develop scalable **backend solutions** with Spring Boot and PHP  
+- Build dynamic **frontend interfaces** using React and WordPress  
+- Solve **DSA problems** to strengthen problem-solving & coding efficiency  
+- Experiment with **AI/ML concepts** and explore their applications in full stack and automation  
 
-Database: MySQL, PostgreSQL
+---
 
-CMS & Tools: WordPress Development, Git, GitHub, VS Code, IntelliJ IDEA
+## 📈 Current Focus  
+- Improving problem-solving skills on **LeetCode & HackerRank**  
+- Advancing in **React & modern frontend practices**  
+- Exploring how **AI/ML can be integrated with Full Stack systems**  
 
-Other Skills: Data Structures & Algorithms (LeetCode, HackerRank), OOPs, System Design basics
+---
 
-🌟 Featured Projects
+## 📫 Connect with Me  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)  
+- 💻 [GitHub](https://github.com/your-github-profile)  
 
-🏦 Banking System (Java + OOPs) – Account management, fund transfer, transaction history
+---
 
-🛒 E-Commerce Website (Spring Boot + MySQL) – Product management, cart system, order handling
-
-🌐 Custom WordPress Sites – Designed and deployed responsive, client-ready websites
-
-🤖 AI/ML Experiments – AWS DeepRacer, ML-based entity extraction from images (Hackathon projects)
-
-📈 What I’m Working On
-
-Sharpening my DSA problem-solving for coding interviews
-
-Building full-stack applications with Spring Boot and React
-
-Exploring AI/ML applications in backend and full-stack development
-
-📫 Let’s Connect
-
-💼 LinkedIn
-
-🌍 [Portfolio / Personal Website](your-portfolio-link if any)
-
-✉️ Email: your-email@example.com
-
-⭐️ Always open to collaborations, learning opportunities, and innovative projects.
+✨ *"Code, Learn, and Build to Impact."*  
