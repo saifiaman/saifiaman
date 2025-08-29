@@ -1,4 +1,4 @@
-![Banner](https://drive.google.com/file/d/126MtvWEBsHCB04J-D09qGEFDfxlQ4BVp/view?usp=sharing)
+![Banner](./banner.png)
 
 # 👋 Hi, I'm Aman Saifi  
 
