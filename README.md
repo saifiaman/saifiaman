@@ -1,39 +1,44 @@
 # 👋 Hi, I'm Aman Saifi  
 
-🚀 **Aspiring Full Stack Developer** | Backend with **Spring Boot & PHP** | Frontend with **React & WordPress** | Problem-Solving Enthusiast in **DSA** | Exploring **AI/ML** in Software Development  
+🚀 **Aspiring Full Stack Developer** | **Full Stack Developer** | **Java & Spring Boot** | **WordPress Designer & Developer** | **Data Structures & Algorithms** | Exploring **AI/ML** in Software Development  
+
+---
+
+## 🔹 About Me  
+
+🚀 Skilled in **Java backend development** using **Spring Boot**  
+🌐 Experienced in **WordPress full-stack solutions** & **custom web development**  
+⚡ Strong foundation in **Data Structures & Algorithms (DSA)**  
+📚 Exploring **AI/ML-powered software development tools**  
+🛠️ Balanced focus on **scalable systems** and **user-centric design**  
 
 ---
 
 ## 🔧 Tech Stack  
 
 - **Languages:** Java, JavaScript, Python, PHP, SQL  
-- **Backend:** Spring Boot, Hibernate, REST APIs, PHP (Laravel basics)  
-- **Frontend:** HTML, CSS, JavaScript, React (learning phase)  
+- **Backend:** Spring Boot, Hibernate, REST APIs, Spring MVC 
+- **Frontend:** HTML, CSS, JavaScript, Tailwind CSS, React  
 - **Database:** MySQL, PostgreSQL  
-- **CMS & Tools:** WordPress Development, Git, GitHub, VS Code, IntelliJ IDEA  
-- **Other Skills:** Data Structures & Algorithms (LeetCode, HackerRank), OOPs, System Design basics  
+- **CMS & Tools:** WordPress Development, Elementor, Git, GitHub, VS Code, IntelliJ IDEA  
+- **Other Skills:** Data Structures & Algorithms, OOPs, Operating System, DBMS, System Design basics  
 
 ---
 
-## 📌 What I Do  
-- Develop scalable **backend solutions** with Spring Boot and PHP  
-- Build dynamic **frontend interfaces** using React and WordPress  
-- Solve **DSA problems** to strengthen problem-solving & coding efficiency  
-- Experiment with **AI/ML concepts** and explore their applications in full stack and automation  
+## 🌱 What I’m Learning Next  
 
----
-
-## 📈 Current Focus  
-- Improving problem-solving skills on **LeetCode & HackerRank**  
-- Advancing in **React & modern frontend practices**  
-- Exploring how **AI/ML can be integrated with Full Stack systems**  
+- **Advanced Spring Boot & Microservices**  
+- **AI/ML integration in full-stack development**  
+- **Scaling applications with cloud-based solutions**   
 
 ---
 
 ## 📫 Connect with Me  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)  
-- 💻 [GitHub](https://github.com/your-github-profile)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/amannex)  
+- 📱 [Instagram](https://www.instagram.com/amannex_/)  
+- 💻 [GitHub](https://github.com/saifiaman)  
+- 🏢 [Buiding @Markencia](https://www.markencia.com)  
 
 ---
 
-✨ *"Code, Learn, and Build to Impact."*  
+✨ *"Code is like humor. When you have to explain it, it’s bad."*  
